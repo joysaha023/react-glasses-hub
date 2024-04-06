@@ -2,12 +2,12 @@
  import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDpdyTkl9jpS_2GE1JHDJB_xhhaxHVK8jE",
-  authDomain: "glasses-authentication.firebaseapp.com",
-  projectId: "glasses-authentication",
-  storageBucket: "glasses-authentication.appspot.com",
-  messagingSenderId: "233349205700",
-  appId: "1:233349205700:web:5d00f4eff4684c90c38391"
+  apiKey: "AIzaSyCS3meJSw0g1TqaDR4aR3zT7wmNjl5aB7Y",
+  authDomain: "react-glasses-hub.firebaseapp.com",
+  projectId: "react-glasses-hub",
+  storageBucket: "react-glasses-hub.appspot.com",
+  messagingSenderId: "168879236658",
+  appId: "1:168879236658:web:d3809da9fa9314d42b7e2b"
 };
 
 // Initialize Firebase
